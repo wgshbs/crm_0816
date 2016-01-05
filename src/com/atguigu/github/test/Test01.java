@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("hello github服务器");
 		System.out.println("hello local Eclipse");
 		System.out.println("Hello your big grandfather");
+		System.out.println("Hello Are you kidding me?");
 		
 	}
 	
